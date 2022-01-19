@@ -19,7 +19,7 @@ Past projects:
    * status: Still online, still works.
 * [traveli.st](https://github.com/ibz/travelist) (2008 - 2009) - A social network for travelers
    * status: Technically it worked, but never got any traction
-* [nuages](https://github.com/ibz/nuages) (2008-2009) / [tzadik](https://github.com/ibz/tzadik) (2009) / [feather](https://github.com/ibz/feather) (2012) - Multiple attempts to write my own photoblog engine
+* [nuages](https://github.com/ibz/nuages) (2008 - 2009) / [tzadik](https://github.com/ibz/tzadik) (2009) / [feather](https://github.com/ibz/feather) (2012) - Multiple attempts to write my own photoblog engine
    * status: They worked fine, but I don't photoblog anymore.
 * [LHelper](https://github.com/ibz/LHelper) (2000, I was 15 years old) - A program that inflects Latin nouns. The code is quite embarrassing, but I keep it around as a memory.
 
