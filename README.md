@@ -24,3 +24,5 @@ Past projects:
 * [LHelper](https://github.com/ibz/LHelper) (2000, I was 15 years old) - A program that inflects Latin nouns. The code is quite embarrassing, but I keep it around as a memory.
 
 Read about my programming story [here](https://ibz.me/programming/).
+
+My professional work history is on [Stack Overflow](https://stackoverflow.com/story/ibz).
