@@ -6,7 +6,9 @@ These days I'm mostly interested in **Bitcoin**, the **Lightning Network** and s
 
 Read about my programming story [here](https://ibz.me/programming/).
 
-Below is a summary of my personal projects, hosted here on GitHub. My professional work history is on [Stack Overflow](https://stackoverflow.com/story/ibz).
+My professional work history is on [Stack Overflow](https://stackoverflow.com/story/ibz).
+
+Below is a summary of my **personal projects**, hosted here on GitHub.
 
 What I am working on at the moment:
 
