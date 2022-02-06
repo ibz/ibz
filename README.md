@@ -15,7 +15,7 @@ What I am working on at the moment:
 * [Lightning Shell](https://github.com/ibz/lightning-shell) - The shell for your personal server
    * status: Released on [Umbrel](https://github.com/getumbrel) and [Citadel](https://github.com/runcitadel)
 * [usocial](https://github.com/ibz/usocial) - The minimalist feed reader, feed aggregator and podcast client
-   * status: Usable, but not released yet
+   * status: Released on [Citadel](https://github.com/runcitadel)
 * [stasi](https://github.com/ibz/stasi) / [gan](https://github.com/ibz/gan) / [gan-gen](https://github.com/ibz/gan-gen) - Simple home monitoring system for Raspberry Pi
    * status: Works for me, but more of a hack still
 
