@@ -4,20 +4,12 @@ Does the rabbit hole ever end?
 
 These days I'm mostly interested in **Bitcoin**, the **Lightning Network** and self-hosted apps, but I worked on many other random things in the past.
 
-Read about my programming story [here](https://ibz.me/programming/).
+Current projects:
 
-My professional work history is on [Stack Overflow](https://stackoverflow.com/story/ibz).
-
-Below is a summary of my **personal projects**, hosted here on GitHub.
-
-What I am working on at the moment:
-
+* [Plebeian Market](https://github.com/PlebeianTech/plebeian-market) - The self-sovereign marketplace - auctions on the Lightning Network
 * [Lightning Shell](https://github.com/ibz/lightning-shell) - The shell for your personal server
-   * status: Released on [Umbrel](https://github.com/getumbrel) and [Citadel](https://github.com/runcitadel)
 * [usocial](https://github.com/ibz/usocial) - The minimalist feed reader, feed aggregator and podcast client
-   * status: Released on [Umbrel](https://github.com/getumbrel) and [Citadel](https://github.com/runcitadel)
 * [stasi](https://github.com/ibz/stasi) / [gan](https://github.com/ibz/gan) / [gan-gen](https://github.com/ibz/gan-gen) - Simple home monitoring system for Raspberry Pi
-   * status: Works for me, but more of a hack still
 
 Past projects:
 
