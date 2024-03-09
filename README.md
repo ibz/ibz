@@ -7,7 +7,7 @@ These days I'm mostly interested in **Bitcoin**, **Nostr** and self-hosted apps,
 Current projects:
 
 * [Plebeian Market](https://github.com/PlebeianTech/plebeian-market) - The self-sovereign marketplace.
-* [Servus](https://github.com/servuscms/servus) - The self-contained CMS & personal Nostr relay.
+* [Servus](https://github.com/servuscms/servus) - The self-contained CMS & personal data store.
 
 Past projects:
 
