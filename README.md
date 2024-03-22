@@ -6,11 +6,11 @@ These days I'm mostly interested in **Bitcoin**, **Nostr** and self-hosted apps,
 
 Current projects:
 
-* [Plebeian Market](https://github.com/PlebeianTech/plebeian-market) - The self-sovereign marketplace.
 * [Servus](https://github.com/servuscms/servus) - The self-contained CMS & personal data store.
 
 Past projects:
 
+* [Plebeian Market](https://github.com/PlebeianTech/plebeian-market) - The self-sovereign marketplace.
 * [usocial](https://github.com/ibz/usocial) - The minimalist feed reader, feed aggregator and podcast client. Released on Umbrel.
 * [Lightning Shell](https://github.com/ibz/lightning-shell) - The shell for your personal server. Released on Umbrel.
 * [stasi](https://github.com/ibz/stasi) / [gan](https://github.com/ibz/gan) / [gan-gen](https://github.com/ibz/gan-gen) - Simple home monitoring system using Raspberry Pi.
