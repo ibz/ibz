@@ -13,7 +13,7 @@ Current projects:
 Past projects:
 
 * [Plebeian Market](https://github.com/PlebeianTech/plebeian-market) - The self-sovereign marketplace.
-* [usocial](https://github.com/ibz/usocial) - The minimalist feed reader and Podcasting 2.0 client. Released on Umbrel.
+* [usocial](https://github.com/ibz/usocial) (2018 - 2022) - The minimalist feed reader and Podcasting 2.0 client. Released on Umbrel. Predecessor of [Servus](https://github.com/servuscms/servus).
 * [Lightning Shell](https://github.com/ibz/lightning-shell) - The shell for your personal server. Released on Umbrel.
 * [stasi](https://github.com/ibz/stasi) / [gan](https://github.com/ibz/gan) / [gan-gen](https://github.com/ibz/gan-gen) - Simple home monitoring system using Raspberry Pi.
 * [Kanji Explorer](https://github.com/ibz/kanjiexplorer.com) (2012) - Navigate kanji (Japanese characters) using radicals.
