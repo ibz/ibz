@@ -4,9 +4,11 @@ Does the rabbit hole ever end?
 
 These days I'm mostly interested in **Bitcoin**, **Nostr** and self-hosted apps, but I worked on many other random things in the past.
 
+Find me at: npub1xvdg698f7fqdu2qu5azwa6fu8xhw8p0zpp272qe7qex7kpn5ks5su3am9l
+
 Current projects:
 
-* [Servus](https://github.com/servuscms/servus) - The self-contained CMS & personal data store.
+* [Servus](https://github.com/servuscms/servus) - The self-contained CMS, personal Nostr relay and Blossom server.
 
 Past projects:
 
